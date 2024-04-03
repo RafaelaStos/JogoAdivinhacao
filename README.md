@@ -7,10 +7,10 @@ Ao final, se você ganhar, o computador lhe dirá quantos pontos você fez, baseand
 
 ## Funcionalidades
 
-   Recebe como entrada o nivel de dificuldade.
-   Solicita o palpites dos chutes.
-   Atualiza a pontuação em cada erro.
-   Imprime a quantidade de tentativas,o quão pertofoi seu chute, e sua pontuação total.
+   - Recebe como entrada o nivel de dificuldade.
+   - Solicita o palpites dos chutes.
+   - Atualiza a pontuação em cada erro.
+   - Imprime a quantidade de tentativas,o quão pertofoi seu chute, e sua pontuação total.
 
 ## Requisitos
 
