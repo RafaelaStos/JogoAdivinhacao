@@ -34,11 +34,11 @@ dotnet build --configuration Release
 
     Para executar o projeto compilando em tempo real
 
-dotnet run --project RoboTupiniquim.ConsoleApp
+dotnet run --project JogaAdivinhacao.ConsoleApp
 
-    Para executar o arquivo compilado, navegue até a pasta ./RoboTupiniquim.ConsoleApp/bin/Release/net8.0/ e execute o arquivo:
+    Para executar o arquivo compilado, navegue até a pasta ./JogaAdivinhacao.ConsoleApp/bin/Release/net8.0/ e execute o arquivo:
 
-RoboTupiniquim.ConsoleApp.exe
+JogaAdivinhacao.ConsoleApp.exe
 
 
 
