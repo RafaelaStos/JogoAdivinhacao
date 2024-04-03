@@ -5,16 +5,20 @@ A cada erro, a máquina lhe dirá se o número chutado foi maior ou menor do que o 
 Você também poderá escolher o nível de dificuldade do jogo, e isso lhe dará mais ou menos oportunidades de chutar um número. 
 Ao final, se você ganhar, o computador lhe dirá quantos pontos você fez, baseando-se em quão bons eram seus chutes.
 
+---
+
 ## Funcionalidades
 
    - Recebe como entrada o nivel de dificuldade.
    - Solicita o palpites dos chutes.
    - Atualiza a pontuação em cada erro.
-   - Imprime a quantidade de tentativas,o quão pertofoi seu chute, e sua pontuação total.
-
+   - Imprime a quantidade de tentativas,o quão perto foi seu chute, e sua pontuação total.
+---
 ## Requisitos
 
     .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+
+---
 
 ## Como Usar
 
